@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @grizz11
+- 👀 I’m interested in video games, cooking, drawing, watching youtube, ...
+- 🌱 I’m currently learning programming luanguages and git and gihub
+- 💞️ I’m looking to collaborate on opne source projects
